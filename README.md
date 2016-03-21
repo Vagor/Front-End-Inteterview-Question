@@ -14,6 +14,7 @@ HTTP是OSI网络模型中处于应用层的一个通信协议
 - xhr.send()
 - 异步调用的方式，实现部分动态刷新
 http://www.cnblogs.com/mingmingruyuedlut/archive/2011/10/18/2216553.html
+
 ##网页性能优化
 
 - 代码
